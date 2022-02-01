@@ -11,6 +11,9 @@ https://www.linkedin.com/posts/chris-h-97680442_github-oslabs-betakur8-a-visual-
 
 https://github.com/oslabs-beta/KUR8
 
+Prometheus standalone install 
+https://prometheus.io/docs/prometheus/latest/getting_started/
+
 Grafana 
 https://www.linkedin.com/products/grafana-labs-grafana/
 
